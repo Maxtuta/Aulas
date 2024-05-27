@@ -1,1 +1,11 @@
-.aula01
+.cor-solida{
+    background-color: aqua;
+}
+.gradiente{
+    background: linear-gradient(red,black);
+}
+.imagem{
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimerant.com.br%2Fanime-manga%2Fjujutsu-kaisen-quem-sera-o-proximo-usuario-dos-seis-olhos-e-do-ilimitado%2F&psig=AOvVaw3N_78tElLe8tNdf3MZW5DP&ust=1716909421000000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODNi5SQroYDFQAAAAAdAAAAABAE);
+background-size: cover; 
+background-position: center;
+}
